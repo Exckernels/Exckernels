@@ -23,7 +23,7 @@
 - 🛡️ User registration and authentication with **JWT**
 - 👤 Personal dashboard and **user profiles**
 - 👥 Creation and management of **groups and communities**
-- 💬 **Real-time chats** using **WebSockets**
+- 💬 **Real-time chats** using **WebSockets** / **Redis Pub/Sub**
 - 🧠 Content **moderation powered by HuggingFace AI**
 - 🔔 **Notification system** via **RabbitMQ** / **Kafka**
 - ⚡ Fast performance with **Redis caching**
@@ -31,7 +31,7 @@
 
 ### 🛠️ Tech Stack:
 - **Java**, **Spring Boot**, **Spring Security**, **WebSocket**
-- **PostgreSQL**, **Redis**, **RabbitMQ** / **Kafka**
+- **PostgreSQL**, **Redis**, **Kafka**, **RabbitMQ**
 - **JWT**, **HuggingFace Transformers**
 - **Docker**
 
