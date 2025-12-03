@@ -1,7 +1,6 @@
-# Hi 👋, I'm Maksim :shipit: 
 ### I am an aspiring Java Developer with a strong background in backend and an interest in modern technologies.
 
-# 🚀 Languages and Tools I Use
+# Languages and Tools I Use
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
@@ -19,27 +18,10 @@
 ### 🔐 [Community](https://github.com/Exckernels/cm-project)  <!-- – Spring Boot + JWT + PostgreSQL -->
  A feature-rich application for creating and managing communities with a focus on security, performance and scalability. Based on the modern Java stack.
 
-### 🚀 Key Features:
-- 🛡️ User registration and authentication with **JWT**
-- 👤 Personal dashboard and **user profiles**
-- 👥 Creation and management of **groups and communities**
-- 💬 **Real-time chats** using **WebSockets** / **Redis Pub/Sub**
-- 🧠 Content **moderation powered by HuggingFace AI**
-- 🔔 **Notification system** via **RabbitMQ** / **Kafka**
-- ⚡ Fast performance with **Redis caching**
-- 🐳 Fully containerized using **Docker**
-
 ### 🛠️ Tech Stack:
 - **Java**, **Spring Boot**, **Spring Security**, **WebSocket**
 - **PostgreSQL**, **Redis**, **Kafka**, **RabbitMQ**
 - **JWT**, **HuggingFace Transformers**
 - **Docker**
-
-
-## 📚 Currently Learning
-- 🧩 Microservices architecture
-- 📕 Redis
-- 🐳 Docker
-- 🪢 Kafka
 
 
