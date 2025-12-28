@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=gradle,heroku,hibernate,postgres,rabbitmq,redis,kafka,docker,spring,vscodium,neovim,cassandra,mongodb,git,java,c,cpp,python,ts,idea&perline=10" />
+    <img src="https://skillicons.dev/icons?i=neovim,vscodium,pycharm,idea,opencv,pytorch,tensorflow,spring,gradle,hibernate,postgres,redis,mongodb,kafka,rabbitmq,docker,git,latex,java,python&perline=10" />
   </a>
 </p>
 
