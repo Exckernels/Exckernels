@@ -9,8 +9,6 @@
   </a>
 </p>
 
-## Projects
-### [Community](https://github.com/Exckernels/cm-project)  
-> A feature-rich application for creating and managing communities with a focus on security, performance and scalability. Based on the modern Java stack.
+
 
 
