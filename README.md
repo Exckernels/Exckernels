@@ -1,12 +1,117 @@
-### I am an aspiring Java Developer with a strong background in backend and an interest in modern technologies.
+###                                                                           SmF2YSBCYWNrZW5kIERldmVsb3Blcg==
 
-
-# Languages and Tools I Use
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=neovim,vscodium,pycharm,idea,cassandra,spring,gradle,hibernate,postgres,redis,mongodb,kafka,rabbitmq,docker,kubernetes,git,latex,java,python,cpp&perline=10" />
+    <img src="https://skillicons.dev/icons?i=java,spring,postgres,hibernate,docker,maven,gradle,git&theme=dark&perline=12" />
   </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+<p align="center">
+  <img width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFvd3IzbGFoNnFiM3F1NG5zc29vNWNqdHc4NXMzcnN3ajdiejZuZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TrVla4Z2PYEkU/giphy.gif" alt="Coding animation">
 </p>
 
 
